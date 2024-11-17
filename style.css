@@ -1,0 +1,38 @@
+button{
+    border-radius: 10px;
+    background-color: rgb(217, 83, 217);
+    width: 200px;
+    height: 50px;
+    color: white;
+}
+#market{
+    margin-left: 200px;
+}
+#food{
+    margin-left: 125px;
+}
+#mani{
+    margin-left: 150px;
+}
+#keeru{
+    color: white;
+}
+
+
+
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0%;
+    color: white;
+}
+a{
+    text-align: center;
+    margin-right: 40px;
+}
+#navbar{
+    height: 50px;
+    background-color:rgb(163, 245, 245);
+    text-align: center;
+}
+
